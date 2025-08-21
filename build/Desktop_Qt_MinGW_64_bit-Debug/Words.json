@@ -1,0 +1,47 @@
+{
+    "Bear": {
+        "translate": "Ведмідь."
+    },
+    "Golf": {
+        "translate": "Гольф"
+    },
+    "Hello": {
+        "translate": "Привіт."
+    },
+    "How are you?": {
+        "translate": "Як справи?"
+    },
+    "Night": {
+        "translate": "Ніч."
+    },
+    "See": {
+        "translate": "Дивіться."
+    },
+    "car": {
+        "translate": "машина"
+    },
+    "cmunity": {
+        "translate": "cmunity"
+    },
+    "comunity": {
+        "translate": "спільнота"
+    },
+    "don't push the horses": {
+        "translate": "не штовхайте коней"
+    },
+    "drill": {
+        "translate": "дриль"
+    },
+    "horses": {
+        "translate": "коні"
+    },
+    "occasionaly": {
+        "translate": "час від часу"
+    },
+    "robustness ": {
+        "translate": "міцність"
+    },
+    "sun": {
+        "translate": "сонце"
+    }
+}

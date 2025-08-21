@@ -1,0 +1,53 @@
+# ninja log v6
+57	294	7773228262523900	Translator_autogen/timestamp	deb7711df9904d10
+1088	4769	7751635408691956	CMakeFiles/Translator.dir/Translator_autogen/mocs_compilation.cpp.obj	9d9a7694b74b5748
+57	294	7773228262523900	Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+449	6021	7751626952970237	CMakeFiles/Translator.dir/database.cpp.obj	f2c916c9eb37fd03
+57	294	7773228262523900	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/timestamp	deb7711df9904d10
+57	294	7773228262523900	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+1093	4693	7751635408737220	CMakeFiles/Translator.dir/main.cpp.obj	2264de61dc97620d
+4122	4573	7773228303292645	Translator.exe	a14c1ed621b20356
+295	4122	7773228265024155	CMakeFiles/Translator.dir/mainwindow.cpp.obj	dd0bb0bce905805a
+4	561	7751580773315412	build.ninja	75301e17e6e571fa
+1152	5435	7750722509180103	CMakeFiles/Translator.dir/translator.cpp.obj	3e58a8c7ead6acaf
+294	3308	7773226006644658	CMakeFiles/Translator.dir/quise.cpp.obj	ae435d8c9923bd54
+55	276	7773228705127470	Translator_autogen/timestamp	deb7711df9904d10
+55	276	7773228705127470	Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+55	276	7773228705127470	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/timestamp	deb7711df9904d10
+55	276	7773228705127470	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+283	3261	7773228707517291	CMakeFiles/Translator.dir/quise.cpp.obj	ae435d8c9923bd54
+278	4385	7773228707467040	CMakeFiles/Translator.dir/mainwindow.cpp.obj	dd0bb0bce905805a
+4385	4835	7773228748546744	Translator.exe	a14c1ed621b20356
+63	299	7773233115041858	Translator_autogen/timestamp	deb7711df9904d10
+63	299	7773233115041858	Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+63	299	7773233115041858	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/timestamp	deb7711df9904d10
+63	299	7773233115041858	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+306	3530	7773233117485410	CMakeFiles/Translator.dir/quise.cpp.obj	ae435d8c9923bd54
+301	4710	7773233117430233	CMakeFiles/Translator.dir/mainwindow.cpp.obj	dd0bb0bce905805a
+4711	5234	7773233161525658	Translator.exe	a14c1ed621b20356
+57	292	7773235609691945	Translator_autogen/timestamp	deb7711df9904d10
+57	292	7773235609691945	Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+57	292	7773235609691945	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/timestamp	deb7711df9904d10
+57	292	7773235609691945	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+293	4053	7773235612182164	CMakeFiles/Translator.dir/mainwindow.cpp.obj	dd0bb0bce905805a
+4053	4530	7773235649790431	Translator.exe	a14c1ed621b20356
+17	264	7773236386335663	Translator_autogen/timestamp	deb7711df9904d10
+17	264	7773236386335663	Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+17	264	7773236386335663	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/timestamp	deb7711df9904d10
+17	264	7773236386335663	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+265	4019	7773236388744774	CMakeFiles/Translator.dir/mainwindow.cpp.obj	dd0bb0bce905805a
+4020	4521	7773236426301314	Translator.exe	a14c1ed621b20356
+60	286	7773238349921967	Translator_autogen/timestamp	deb7711df9904d10
+60	286	7773238349921967	Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+60	286	7773238349921967	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/timestamp	deb7711df9904d10
+60	286	7773238349921967	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+292	3409	7773238352331103	CMakeFiles/Translator.dir/quise.cpp.obj	ae435d8c9923bd54
+287	4394	7773238352276665	CMakeFiles/Translator.dir/mainwindow.cpp.obj	dd0bb0bce905805a
+4395	4882	7773238393357576	Translator.exe	a14c1ed621b20356
+57	280	7773241609318555	Translator_autogen/timestamp	deb7711df9904d10
+57	280	7773241609318555	Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+57	280	7773241609318555	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/timestamp	deb7711df9904d10
+57	280	7773241609318555	C:/QT_ Docs/Translator/build/Desktop_Qt_MinGW_64_bit-Debug/Translator_autogen/mocs_compilation.cpp	deb7711df9904d10
+289	3459	7773241611621414	CMakeFiles/Translator.dir/quise.cpp.obj	ae435d8c9923bd54
+281	4473	7773241611553680	CMakeFiles/Translator.dir/mainwindow.cpp.obj	dd0bb0bce905805a
+4474	4956	7773241653490603	Translator.exe	a14c1ed621b20356
