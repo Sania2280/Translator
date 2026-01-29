@@ -1,0 +1,588 @@
+{
+    "Hello": {
+        "keyLow": "hello",
+        "translate_1": "Привіт",
+        "translate_2": "привіт",
+        "translate_3": "Добрий день",
+        "translate_4": "Дарова",
+        "translate_5": "Прив"
+    },
+    "Occasionally": {
+        "keyLow": "occasionally",
+        "translate_1": "Іноді",
+        "translate_2": "іноді"
+    },
+    "Translator": {
+        "keyLow": "translator",
+        "translate_1": "Перекладач",
+        "translate_2": "перекладач"
+    },
+    "afford": {
+        "keyLow": "afford",
+        "translate_1": "Дозволити собі",
+        "translate_2": "дозволити собі"
+    },
+    "almost certain": {
+        "keyLow": "almost certain",
+        "translate_1": "Майже напевно",
+        "translate_2": "майже напевно"
+    },
+    "alternate": {
+        "keyLow": "alternate",
+        "translate_1": "Альтернативний",
+        "translate_2": "альтернативний"
+    },
+    "announced ": {
+        "keyLow": "announced ",
+        "translate_1": "Оголосили",
+        "translate_2": "оголосили"
+    },
+    "annually": {
+        "keyLow": "annually",
+        "translate_1": "Щорічно",
+        "translate_2": "щорічно"
+    },
+    "apprenticeships": {
+        "keyLow": "apprenticeships",
+        "translate_1": "Стажування",
+        "translate_2": "стажування"
+    },
+    "arrange": {
+        "keyLow": "arrange",
+        "translate_1": "Влаштувати",
+        "translate_2": "влаштувати"
+    },
+    "attend": {
+        "keyLow": "attend",
+        "translate_1": "Відвідувати",
+        "translate_2": "відвідувати"
+    },
+    "attending ": {
+        "keyLow": "attending ",
+        "translate_1": "Відвідує",
+        "translate_2": "відвідує",
+        "translate_3": "Відвідуваня"
+    },
+    "behalf": {
+        "keyLow": "behalf",
+        "translate_1": "За",
+        "translate_2": "за",
+        "translate_3": "Від імені"
+    },
+    "bet": {
+        "keyLow": "bet",
+        "translate_1": "Парі",
+        "translate_2": "парі"
+    },
+    "bound to": {
+        "keyLow": "bound to",
+        "translate_1": "Зобов'язані",
+        "translate_2": "зобов'язані"
+    },
+    "broken even": {
+        "keyLow": "broken even",
+        "translate_1": "Беззбитковість",
+        "translate_2": "беззбитковість"
+    },
+    "bruised": {
+        "keyLow": "bruised",
+        "translate_1": "Побитий",
+        "translate_2": "побитий"
+    },
+    "busking": {
+        "keyLow": "busking",
+        "translate_1": "Вулична гра на інструментах",
+        "translate_2": "вулична гра на інструментах"
+    },
+    "camping gear": {
+        "keyLow": "camping gear",
+        "translate_1": "Туристичне спорядження",
+        "translate_2": "туристичне спорядження"
+    },
+    "carrie on": {
+        "keyLow": "carrie on",
+        "translate_1": "Продовжуйте",
+        "translate_2": "продовжуйте"
+    },
+    "carrying out": {
+        "keyLow": "carrying out",
+        "translate_1": "Проведення",
+        "translate_2": "проведення"
+    },
+    "certain": {
+        "keyLow": "certain",
+        "translate_1": "Певний",
+        "translate_2": "певний"
+    },
+    "chase": {
+        "keyLow": "chase",
+        "translate_1": "Гонитва",
+        "translate_2": "гонитва",
+        "translate_3": "Погоня"
+    },
+    "claim": {
+        "keyLow": "claim",
+        "translate_1": "Позовна заява",
+        "translate_2": "позовна заява"
+    },
+    "claimed": {
+        "keyLow": "claimed",
+        "translate_1": "Стверджував",
+        "translate_2": "стверджував"
+    },
+    "clumsy": {
+        "keyLow": "clumsy",
+        "translate_1": "Незграбний",
+        "translate_2": "незграбний"
+    },
+    "come up with": {
+        "keyLow": "come up with",
+        "translate_1": "Придумати",
+        "translate_2": "придумати"
+    },
+    "computation": {
+        "keyLow": "computation",
+        "translate_1": "Обчислення",
+        "translate_2": "обчислення"
+    },
+    "concern": {
+        "keyLow": "concern",
+        "translate_1": "Занепокоєння",
+        "translate_2": "занепокоєння"
+    },
+    "conjunction": {
+        "keyLow": "conjunction",
+        "translate_1": "Сполучник",
+        "translate_2": "сполучник"
+    },
+    "convolution": {
+        "keyLow": "convolution",
+        "translate_1": "Згортка",
+        "translate_2": "згортка"
+    },
+    "crew": {
+        "keyLow": "crew",
+        "translate_1": "Екіпаж",
+        "translate_2": "екіпаж"
+    },
+    "day": {
+        "keyLow": "day",
+        "translate_1": "День",
+        "translate_2": "день"
+    },
+    "decent": {
+        "keyLow": "decent",
+        "translate_1": "Пристойний",
+        "translate_2": "пристойний"
+    },
+    "disapprove": {
+        "keyLow": "disapprove",
+        "translate_1": "Не схвалюю",
+        "translate_2": "не схвалюю"
+    },
+    "earn": {
+        "keyLow": "earn",
+        "translate_1": "Заробляти",
+        "translate_2": "заробляти"
+    },
+    "encourage": {
+        "keyLow": "encourage",
+        "translate_1": "Заохочувати",
+        "translate_2": "заохочувати"
+    },
+    "essential ": {
+        "keyLow": "essential ",
+        "translate_1": "Важливий",
+        "translate_2": "важливий"
+    },
+    "estimated": {
+        "keyLow": "estimated",
+        "translate_1": "Приблизний",
+        "translate_2": "приблизний"
+    },
+    "eventually": {
+        "keyLow": "eventually",
+        "translate_1": "Врешті-решт",
+        "translate_2": "врешті-решт"
+    },
+    "evidence ": {
+        "keyLow": "evidence ",
+        "translate_1": "Докази",
+        "translate_2": "докази"
+    },
+    "fairly likely": {
+        "keyLow": "fairly likely",
+        "translate_1": "Досить імовірно",
+        "translate_2": "досить імовірно"
+    },
+    "fairly unlikely": {
+        "keyLow": "fairly unlikely",
+        "translate_1": "Досить малоймовірно",
+        "translate_2": "досить малоймовірно"
+    },
+    "fees": {
+        "keyLow": "fees",
+        "translate_1": "Збори",
+        "translate_2": "збори",
+        "translate_3": "внесок"
+    },
+    "findings": {
+        "keyLow": "findings",
+        "translate_1": "Висновки",
+        "translate_2": "висновки"
+    },
+    "flowchart": {
+        "keyLow": "flowchart",
+        "translate_1": "Блок-схема",
+        "translate_2": "блок-схема"
+    },
+    "fluent": {
+        "keyLow": "fluent",
+        "translate_1": "Вільно",
+        "translate_2": "вільно"
+    },
+    "fond of": {
+        "keyLow": "fond of",
+        "translate_1": "Любив",
+        "translate_2": "любив"
+    },
+    "font": {
+        "keyLow": "font",
+        "translate_1": "Шрифт",
+        "translate_2": "шрифт"
+    },
+    "freed": {
+        "keyLow": "freed",
+        "translate_1": "Звільнений",
+        "translate_2": "звільнений"
+    },
+    "frustrate": {
+        "keyLow": "frustrate",
+        "translate_1": "Розчаровувати",
+        "translate_2": "розчаровувати"
+    },
+    "get rid of": {
+        "keyLow": "get rid of",
+        "translate_1": "Позбутися",
+        "translate_2": "позбутися"
+    },
+    "get your message across": {
+        "keyLow": "get your message across",
+        "translate_1": "Донести своє повідомлення",
+        "translate_2": "донести своє повідомлення"
+    },
+    "gig ": {
+        "keyLow": "gig ",
+        "translate_1": "Концерт",
+        "translate_2": "концерт"
+    },
+    "hand in": {
+        "keyLow": "hand in",
+        "translate_1": "Здати",
+        "translate_2": "здати"
+    },
+    "handing ": {
+        "keyLow": "handing ",
+        "translate_1": "Вручення",
+        "translate_2": "вручення"
+    },
+    "heckling": {
+        "keyLow": "heckling",
+        "translate_1": "Вигуки",
+        "translate_2": "вигуки"
+    },
+    "held": {
+        "keyLow": "held",
+        "translate_1": "Проведений",
+        "translate_2": "проведений",
+        "translate_3": "Проводити"
+    },
+    "inefficient": {
+        "keyLow": "inefficient",
+        "translate_1": "Неефективний",
+        "translate_2": "неефективний"
+    },
+    "initial": {
+        "keyLow": "initial",
+        "translate_1": "Початковий",
+        "translate_2": "початковий"
+    },
+    "insurance": {
+        "keyLow": "insurance",
+        "translate_1": "Страхування",
+        "translate_2": "страхування"
+    },
+    "live up to my expectation": {
+        "keyLow": "live up to my expectation",
+        "translate_1": "Виправдовують мої очікування",
+        "translate_2": "виправдовують мої очікування"
+    },
+    "log off": {
+        "keyLow": "log off",
+        "translate_1": "Вийти з системи",
+        "translate_2": "вийти з системи"
+    },
+    "made up your mind": {
+        "keyLow": "made up your mind",
+        "translate_1": "Вирішив",
+        "translate_2": "вирішив"
+    },
+    "meaningful": {
+        "keyLow": "meaningful",
+        "translate_1": "Значущою",
+        "translate_2": "значущою",
+        "translate_3": "значущій"
+    },
+    "mess": {
+        "keyLow": "mess",
+        "translate_1": "Безлад",
+        "translate_2": "безлад"
+    },
+    "mess up": {
+        "keyLow": "mess up",
+        "translate_1": "Зіпсувати все",
+        "translate_2": "зіпсувати все"
+    },
+    "messed up": {
+        "keyLow": "messed up",
+        "translate_1": "Переплутався",
+        "translate_2": "переплутався"
+    },
+    "morning": {
+        "keyLow": "morning",
+        "translate_1": "Ранок",
+        "translate_2": "ранок"
+    },
+    "natural disasters": {
+        "keyLow": "natural disasters",
+        "translate_1": "Стихійні лиха",
+        "translate_2": "стихійні лиха"
+    },
+    "necessitates": {
+        "keyLow": "necessitates",
+        "translate_1": "Вимагає",
+        "translate_2": "вимагає"
+    },
+    "night": {
+        "keyLow": "night",
+        "translate_1": "Ніч",
+        "translate_2": "ніч"
+    },
+    "obtained": {
+        "keyLow": "obtained",
+        "translate_1": "Отримано",
+        "translate_2": "отримано"
+    },
+    "occupations": {
+        "keyLow": "occupations",
+        "translate_1": "Професії",
+        "translate_2": "професії"
+    },
+    "orchestra pit": {
+        "keyLow": "orchestra pit",
+        "translate_1": "Оркестрова яма",
+        "translate_2": "оркестрова яма"
+    },
+    "outcome ": {
+        "keyLow": "outcome ",
+        "translate_1": "Результат",
+        "translate_2": "результат"
+    },
+    "passionate": {
+        "keyLow": "passionate",
+        "translate_1": "Пристрасний",
+        "translate_2": "пристрасний"
+    },
+    "persuade": {
+        "keyLow": "persuade",
+        "translate_1": "Переконувати",
+        "translate_2": "переконувати"
+    },
+    "perturbations": {
+        "keyLow": "perturbations",
+        "translate_1": "Збурення",
+        "translate_2": "збурення"
+    },
+    "postgraduate ": {
+        "keyLow": "postgraduate ",
+        "translate_1": "Аспірант",
+        "translate_2": "аспірант"
+    },
+    "precise": {
+        "keyLow": "precise",
+        "translate_1": "Точний",
+        "translate_2": "точний"
+    },
+    "prevent": {
+        "keyLow": "prevent",
+        "translate_1": "Запобігати",
+        "translate_2": "запобігати"
+    },
+    "put up with": {
+        "keyLow": "put up with",
+        "translate_1": "Змиритися з тим",
+        "translate_2": "змиритися з тим"
+    },
+    "rectify": {
+        "keyLow": "rectify",
+        "translate_1": "Виправити",
+        "translate_2": "виправити"
+    },
+    "reneweable": {
+        "keyLow": "reneweable",
+        "translate_1": "Поновлювані",
+        "translate_2": "поновлювані"
+    },
+    "reproducing": {
+        "keyLow": "reproducing",
+        "translate_1": "Розмноження",
+        "translate_2": "розмноження"
+    },
+    "retire": {
+        "keyLow": "retire",
+        "translate_1": "Піти на пенсію",
+        "translate_2": "піти на пенсію"
+    },
+    "revise": {
+        "keyLow": "revise",
+        "translate_1": "Переглянути",
+        "translate_2": "переглянути"
+    },
+    "saturation": {
+        "keyLow": "saturation",
+        "translate_1": "Насичення",
+        "translate_2": "насичення"
+    },
+    "scenery": {
+        "keyLow": "scenery",
+        "translate_1": "Декорації",
+        "translate_2": "декорації",
+        "translate_3": "Пейзаж"
+    },
+    "sequential": {
+        "keyLow": "sequential",
+        "translate_1": "Послідовний",
+        "translate_2": "послідовний"
+    },
+    "set in": {
+        "keyLow": "set in",
+        "translate_1": "Розпочався",
+        "translate_2": "розпочався",
+        "translate_3": "Знято"
+    },
+    "shim": {
+        "keyLow": "shim",
+        "translate_1": "Просматривать",
+        "translate_2": "просматривать"
+    },
+    "simultaneously": {
+        "keyLow": "simultaneously",
+        "translate_1": "Одночасно",
+        "translate_2": "одночасно"
+    },
+    "slip": {
+        "keyLow": "slip",
+        "translate_1": "Вислизнути",
+        "translate_2": "вислизнути",
+        "translate_3": "послизнутись"
+    },
+    "sort out": {
+        "keyLow": "sort out",
+        "translate_1": "Розібратися",
+        "translate_2": "розібратися",
+        "translate_3": "Вирішити",
+        "translate_4": "Вирішити"
+    },
+    "species ": {
+        "keyLow": "species ",
+        "translate_1": "Види",
+        "translate_2": "види"
+    },
+    "stunning": {
+        "keyLow": "stunning",
+        "translate_1": "Приголомшливо",
+        "translate_2": "приголомшливо"
+    },
+    "suboptimal": {
+        "keyLow": "suboptimal",
+        "translate_1": "Субоптимальний",
+        "translate_2": "субоптимальний",
+        "translate_3": "необтимальный"
+    },
+    "sun": {
+        "keyLow": "sun",
+        "translate_1": "Сонце",
+        "translate_2": "сонце"
+    },
+    "supplements": {
+        "keyLow": "supplements",
+        "translate_1": "Добавки",
+        "translate_2": "добавки"
+    },
+    "thrilled": {
+        "keyLow": "thrilled",
+        "translate_1": "В захваті",
+        "translate_2": "в захваті"
+    },
+    "to conjunct": {
+        "keyLow": "to conjunct",
+        "translate_1": "З'єднувати",
+        "translate_2": "з'єднувати"
+    },
+    "toiletries": {
+        "keyLow": "toiletries",
+        "translate_1": "Туалетні приналежності",
+        "translate_2": "туалетні приналежності"
+    },
+    "took over": {
+        "keyLow": "took over",
+        "translate_1": "Взяв на себе",
+        "translate_2": "взяв на себе"
+    },
+    "trial ": {
+        "keyLow": "trial ",
+        "translate_1": "Випробування",
+        "translate_2": "випробування"
+    },
+    "trolley": {
+        "keyLow": "trolley",
+        "translate_1": "Візок",
+        "translate_2": "візок"
+    },
+    "undergoes": {
+        "keyLow": "undergoes",
+        "translate_1": "Піддається",
+        "translate_2": "піддається"
+    },
+    "up-and-coming": {
+        "keyLow": "up-and-coming",
+        "translate_1": "Перспективний",
+        "translate_2": "перспективний"
+    },
+    "vehicles ": {
+        "keyLow": "vehicles ",
+        "translate_1": "Транспортні засоби",
+        "translate_2": "транспортні засоби"
+    },
+    "wages": {
+        "keyLow": "wages",
+        "translate_1": "Заробітна плата",
+        "translate_2": "заробітна плата",
+        "translate_3": "Зарплата"
+    },
+    "waste": {
+        "keyLow": "waste",
+        "translate_1": "Відходи",
+        "translate_2": "відходи"
+    },
+    "witness": {
+        "keyLow": "witness",
+        "translate_1": "Свідок",
+        "translate_2": "свідок"
+    },
+    "wrapped": {
+        "keyLow": "wrapped",
+        "translate_1": "Загорнутий",
+        "translate_2": "загорнутий"
+    }
+}
